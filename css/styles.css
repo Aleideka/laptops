@@ -396,7 +396,7 @@ p {
 
 /* Showcase */
 #showcase {
-  background: var(--dark-col-bg) url("../img/AZMM-Atrium.PNG") no-repeat center
+  background: var(--dark-col-bg) url("../img/AZMM-Atrium.jpg") no-repeat center
     center/cover;
   height: 100vh;
   color: var(--light-col-t);
